@@ -1,7 +1,7 @@
 ---
 title: Welcome to my observational cosmology blog!
 author: McCarthy, K.S.
-pubDatetime: 2023-07-21T10:11:06.130Z
+pubDatetime: 2023-10-29T23:31:06.130Z
 postSlug: welcome-to-my-obs-cosmo-blog
 featured: false
 draft: false
