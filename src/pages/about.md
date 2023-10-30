@@ -35,4 +35,4 @@ Working Package of the Galaxy Clustering Science Working Group in the
 Euclid Consortium.
 </p>
 
-<a class="CV_body"><<p align="center">iframe src="/assets/McCarthy_CV_without_REFS.pdf" width="500" height="600"/></iframe></p></a>
+<a class="CV_body"><p align="center"><iframe src="/assets/McCarthy_CV_without_REFS.pdf" width="500" height="600"/></iframe></p></a>
