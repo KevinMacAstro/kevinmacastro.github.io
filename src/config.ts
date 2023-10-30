@@ -2,8 +2,8 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://KevinMacAstro.github.io/", // replace this with your deployed domain
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  author: "Kevin Spencer McCarthy",
+  desc: "McCarthy, K.S. an Observational Cosmologist",
   title: "McCarthy, K.S.",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -22,7 +22,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/kevinmacastro",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -30,11 +30,11 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.instagram.com/kevmacastro/",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
@@ -42,11 +42,11 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:kevmac@caltech.edu",
     linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
