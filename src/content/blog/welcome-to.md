@@ -6,6 +6,6 @@ postSlug: welcome-to-my-obs-cosmo-blog
 featured: false
 draft: false
 tags:
-  - FAQ
+  - Hello
 description: A website to keep you up-to-date about my research progress and milestones.
 ---
