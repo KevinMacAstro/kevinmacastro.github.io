@@ -9,7 +9,8 @@ title: "About"
 
 <center><h2>Kevin Spencer McCarthy</h2>
 <h2>(he|them|theirs)</h2>
-<h2>Born: Jacksonville, FL</h2>
+<h2>Birthplace: Jacksonville, FL</h2>
+<h2>United States of America</h2>
 </center>
 
 <p>
