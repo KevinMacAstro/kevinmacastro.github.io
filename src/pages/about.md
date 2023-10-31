@@ -10,7 +10,7 @@ title: "About"
 <center><h2>Kevin Spencer McCarthy</h2>
 <h2>(he|them|theirs)</h2>
 <h2>Birthplace: Jacksonville, FL</h2>
-<h2>United States of America</h2>
+<h2>United States of America <img src="/assets/USAflag_Website.png" width="20" height="20"  ></h2>
 </center>
 
 <p>
